@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/3bodymo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3bodymo_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/3bodymo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3bodymo" height="30" width="40" /></a>
-<a href="https://medium.com/@3bodymo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@3bodymo" height="30" width="40" /></a>
+<a href="https://3bodymo.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@3bodymo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
