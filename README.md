@@ -10,6 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [XSS through image proxy using SVG image](https://3bodymo.medium.com/xss-through-image-proxy-using-svg-image-49cdf955cf4f?source=rss-1eb5d4db500c------2)
+- [How I earned $$$$ by Amazon S3 Bucket misconfigurations?](https://3bodymo.medium.com/how-i-earned-by-amazon-s3-bucket-misconfigurations-29d51ee510de?source=rss-1eb5d4db500c------2)
+- [IDOR leads to leak medical insurance documents](https://3bodymo.medium.com/idor-leads-to-leak-medical-insurance-documents-8779715074be?source=rss-1eb5d4db500c------2)
+- [Bypass rate limit to enumeration users through Google Drive](https://3bodymo.medium.com/bypass-rate-limit-to-enumeration-users-through-google-drive-ed64e07c879c?source=rss-1eb5d4db500c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
