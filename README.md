@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/3bodymo_" target="blank"><img src="https://img.shields.io/twitter/follow/3bodymo_?logo=twitter&style=for-the-badge" alt="3bodymo_" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity, Smart Contract Security**
+- 🌱 I’m currently learning **Web3, Smart Contract Security**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
