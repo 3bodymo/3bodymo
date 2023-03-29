@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdullah Mohamed</h1>
-<h3 align="center">A software engineer interesting in cyber security</h3>
+<h3 align="center">An AI engineer interesting in cyber security</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/K6CQQKB/1-z-Vn-WJty-GOX-k-UIDm6cc-Cf-Q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3bodymo&label=Profile%20views&color=0e75b6&style=flat" alt="3bodymo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/3bodymo_" target="blank"><img src="https://img.shields.io/twitter/follow/3bodymo_?logo=twitter&style=for-the-badge" alt="3bodymo_" /></a> </p>
-
-- 🌱 I’m currently learning **Web3 Technologies, Smart Contract Auditing**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
