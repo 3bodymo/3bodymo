@@ -8,10 +8,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hacking HackerOne: How computer vision helped uncover hidden vulnerabilities?](https://3bodymo.medium.com/hacking-hackerone-how-computer-vision-helped-uncover-hidden-vulnerabilities-858d03a6a67?source=rss-1eb5d4db500c------2)
 - [Exploiting Cross Site Scripting &lpar;XSS&rpar; in Web3](https://3bodymo.medium.com/exploiting-cross-site-scripting-xss-in-web3-c8e00aeea22a?source=rss-1eb5d4db500c------2)
 - [XSS through image proxy using SVG image](https://3bodymo.medium.com/xss-through-image-proxy-using-svg-image-49cdf955cf4f?source=rss-1eb5d4db500c------2)
 - [How I earned $$$$ by Amazon S3 Bucket misconfigurations?](https://3bodymo.medium.com/how-i-earned-by-amazon-s3-bucket-misconfigurations-29d51ee510de?source=rss-1eb5d4db500c------2)
-- [IDOR leads to leak medical insurance documents](https://3bodymo.medium.com/idor-leads-to-leak-medical-insurance-documents-8779715074be?source=rss-1eb5d4db500c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
