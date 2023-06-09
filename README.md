@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Mohamed</h1>
-<h3 align="center">An AI engineer interesting in cyber security</h3>
+<h3 align="center">A Machine Learning Engineer interesting in cyber security</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/K6CQQKB/1-z-Vn-WJty-GOX-k-UIDm6cc-Cf-Q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3bodymo&label=Profile%20views&color=0e75b6&style=flat" alt="3bodymo" /> </p>
