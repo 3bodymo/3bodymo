@@ -14,11 +14,26 @@
 - [How I earned $$$$ by Amazon S3 Bucket misconfigurations?](https://3bodymo.medium.com/how-i-earned-by-amazon-s3-bucket-misconfigurations-29d51ee510de?source=rss-1eb5d4db500c------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/3bodymo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3bodymo_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullah-abdelrazek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3bodymo" height="30" width="40" /></a>
-<a href="https://3bodymo.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@3bodymo" height="30" width="40" /></a>
-</p>
+<h3 align="left">Connect with me</h3>
+<table>
+  <tr>
+    <td>
+      <a href="https://twitter.com/3bodymo_" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/abdullah-abdelrazek" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://3bodymo.medium.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3bodymo&" alt="3bodymo" /></p>
+### GitHub Stats
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=3bodymo&theme=light)
