@@ -58,6 +58,11 @@ me.after_hours(next_good_idea)  # -> "nights, weekends, whatever it takes"
 ### `me.activity()`
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3bodymo/3bodymo/output/snake-dark.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/3bodymo/3bodymo/output/snake.svg">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=3bodymo&theme=dark&hide_border=true&background=00000000">
   <img alt="GitHub streak" src="https://github-readme-stats-fast.vercel.app/api/streak?username=3bodymo&theme=light&hide_border=true&background=00000000">
 </picture>
